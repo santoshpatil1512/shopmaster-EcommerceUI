@@ -49,7 +49,7 @@ const Footer = () => {
               ShopMaster
             </h1>
             <p>
-            🛍️ "Where Shopping Meets Simplicity."
+              🛍️ "Where Shopping Meets Simplicity."
             </p>
           </div>
 
