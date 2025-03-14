@@ -49,8 +49,7 @@ const Footer = () => {
               ShopMaster
             </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum in
-              beatae ea recusandae blanditiis veritatis.
+            🛍️ "Where Shopping Meets Simplicity."
             </p>
           </div>
 
